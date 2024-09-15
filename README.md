@@ -15,7 +15,7 @@
 * **Cost-Effective**: Our software is designed to offer high performance while keeping costs low, ensuring great value for your investment.
 
 ### Model Looks :-
-* 1. Home Page
+* 1.Home Page
 ![WhatsApp Image 2024-09-15 at 2 03 30 PM](https://github.com/user-attachments/assets/e1cbc4d1-6cb2-40ea-b369-4879b86252eb)
 
 * 2.Upload Page
